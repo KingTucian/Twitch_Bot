@@ -9,9 +9,7 @@ const opts = {
         password: "oauth:5q4mhsoamjg9mkib1qf6qs7ya61sg1"
     },
     channels: [
-        "KingTucian",
-        "FinnleighDeAnne",
-        "CA_in_LA"
+        "ChannelName" //replace ChannelName with your channel's name
     ]
 };
 // Create a client with our options
